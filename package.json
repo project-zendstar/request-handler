@@ -1,0 +1,26 @@
+{
+  "name": "@project-zendstar/request-handler",
+  "version": "1.0.0",
+  "description": "request handler module",
+  "main": "./lib/request-handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-zendstar/request-handler.git"
+  },
+  "author": "asa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/project-zendstar/request-handler/issues"
+  },
+  "homepage": "https://github.com/project-zendstar/request-handler#readme",
+  "dependencies": {
+    "@project-zendstar/logger": "^1.0.0",
+    "lodash": "^4.17.15"
+  }
+}
