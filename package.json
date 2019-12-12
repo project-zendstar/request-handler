@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/project-zendstar/request-handler#readme",
   "dependencies": {
-    "@project-zendstar/logger": "^1.0.0",
+    "@project-zendstar/logger": "file:../logger",
     "lodash": "^4.17.15"
   }
 }
